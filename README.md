@@ -1,7 +1,5 @@
 # Language Translator App
 
-## Introduction
-
 The Language Translator App allows users to translate text between multiple languages easily. It's perfect for travelers, students, or anyone looking to learn a new language.
 
 ## Features
@@ -11,7 +9,7 @@ The Language Translator App allows users to translate text between multiple lang
 - **Offline Mode**
 - **User-friendly Interface*
 
-# Hardware
+# Hardware Requirements
 
 - **PC/Mac:**
   - Minimum 4 GB RAM
