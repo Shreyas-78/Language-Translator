@@ -9,7 +9,7 @@ The Language Translator App allows users to translate text between multiple lang
 - **Offline Mode**
 - **User-friendly Interface*
 
-# Hardware Requirements
+## Hardware Requirements
 
 - **PC/Mac:**
   - Minimum 4 GB RAM
