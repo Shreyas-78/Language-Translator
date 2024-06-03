@@ -7,7 +7,7 @@ The Language Translator App allows users to translate text between multiple lang
 - **Multiple Language Support**
 - **Real-time Translation**
 - **Offline Mode**
-- **User-friendly Interface*
+- **User-friendly Interface**
 
 ## Hardware Requirements
 
